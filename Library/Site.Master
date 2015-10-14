@@ -38,7 +38,6 @@
         <%: Scripts.Render("~/Scripts/jquery.appear.js") %>
     </asp:PlaceHolder>
     <webopt:BundleReference runat="server" Path="~/Content/css" />
-    <link href="http://fonts.googleapis.com/css?family=Raleway:700,400,300" rel="stylesheet" type="text/css">
 </head>
 <body class="no-trans">
     <div class="scrollToTop"><i class="icon-up-open-big"></i></div>
