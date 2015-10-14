@@ -98,7 +98,7 @@
                             This engine was made for testing purposes, this is only a OnePage test.
                             <br />
                             <br />
-                            This test was made with Microsoft Entity Framework, and contains the prepared API Methods to complete the task requested. This test only implements the GetAll and GetByAuthor searches that was requested on the Email Test.
+                            This test was made with Microsoft Entity Framework and contains the prepared API Methods to complete the task requested. This test only implements the GetAll and GetByAuthor searches that was requested on the Email Test.
                             <br />
                             <br />
                             Made in M&eacute;xico by Michel Castillo
