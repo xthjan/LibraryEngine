@@ -69,6 +69,7 @@ a {
     a:focus,
     a:active {
         outline: none;
+        text-decoration: none;
     }
 
 .large {
